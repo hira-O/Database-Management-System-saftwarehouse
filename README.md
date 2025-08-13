@@ -1,4 +1,4 @@
-# 📊 Codes Logistics – Software House Management System
+# 📊 Codes Logistics – Software House DBMS
 
 ## 💼 Efficient Project & Client Management
 A database-driven management system designed for software houses to track projects, manage clients, and streamline internal workflows with role-based access.
@@ -35,10 +35,10 @@ A database-driven management system designed for software houses to track projec
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: WinForms (C#) / Web UI (HTML, CSS, JavaScript for web version)  
-- Backend: C# (.NET) or PHP (depending on version)  
+- Frontend: WinForms (C#)  
+- Backend: C# (.NET)
 - Database: MySQL / SQL Server  
-- Tools: Visual Studio, SSMS, phpMyAdmin  
+- Tools: Visual Studio, SSMS
 
 ---
 
