@@ -1,51 +1,51 @@
-# 📊 Codes Logistics – Software House DBMS
+# 📊 **Codes Logistics – Software House Management System**
 
-## 💼 Efficient Project & Client Management
+## 💼 **Efficient Project & Client Management**
 A database-driven management system designed for software houses to track projects, manage clients, and streamline internal workflows with role-based access.
 
 ---
 
-## 🚀 Core Features
-- Project Tracking – Create, update, and monitor software projects with deadlines  
-- Client Management – Store client details, requirements, and communication history  
-- Employee Management – Assign tasks, monitor progress, and maintain employee profiles  
-- Role-Based Access – CEO, CTO, Developers, and Receptionists with different permissions  
-- Data Security – Encrypted database connections and user authentication  
-- Reporting & Analytics – Generate performance, financial, and status reports  
+## 🚀 **Core Features**
+- **Project Tracking** – Create, update, and monitor software projects with deadlines  
+- **Client Management** – Store client details, requirements, and communication history  
+- **Employee Management** – Assign tasks, monitor progress, and maintain employee profiles  
+- **Role-Based Access** – CEO, CTO, Developers, and Receptionists with different permissions  
+- **Data Security** – Encrypted database connections and user authentication  
+- **Reporting & Analytics** – Generate performance, financial, and status reports  
 
 ---
 
-## 🌟 Extra Features
-- File Upload/Download – Store and retrieve project files (ZIP, Docs, etc.) directly from the database  
-- Search & Filter – Quickly locate projects, clients, or employees  
-- Real-Time Dashboard – Track live updates on project progress and team workload  
-- Notifications – Alerts for deadlines, new tasks, and important updates  
-- Graphical Reports – Visual charts for project statuses and employee performance  
+## 🌟 **Extra Features**
+- **File Upload/Download** – Store and retrieve project files (ZIP, Docs, etc.) directly from the database  
+- **Search & Filter** – Quickly locate projects, clients, or employees  
+- **Real-Time Dashboard** – Track live updates on project progress and team workload  
+- **Notifications** – Alerts for deadlines, new tasks, and important updates  
+- **Graphical Reports** – Visual charts for project statuses and employee performance  
 
 ---
 
-## 📱 Modules
-- Dashboard – Overview of ongoing projects, pending tasks, and deadlines  
-- Project Management – Create, edit, and manage project lifecycles  
-- Client Database – Contact information, history, and contract details  
-- Employee Records – Personal info, assigned tasks, and performance metrics  
-- Reports & Analytics – Graphs, charts, and summary tables  
-- File Management – Upload/download project-related documents  
+## 📱 **Modules**
+- **Dashboard** – Overview of ongoing projects, pending tasks, and deadlines  
+- **Project Management** – Create, edit, and manage project lifecycles  
+- **Client Database** – Contact information, history, and contract details  
+- **Employee Records** – Personal info, assigned tasks, and performance metrics  
+- **Reports & Analytics** – Graphs, charts, and summary tables  
+- **File Management** – Upload/download project-related documents  
 
 ---
 
-## 🛠️ Tech Stack
-- Frontend: WinForms (C#)  
-- Backend: C# (.NET)
-- Database: MySQL / SQL Server  
-- Tools: Visual Studio, SSMS
+## 🛠️ **Tech Stack**
+- **Frontend:** WinForms (C#)
+- **Backend:** C# (.NET)  
+- **Database:** MySQL / SQL Server  
+- **Tools:** Visual Studio, SSMS
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 **Demo Screenshot**
 ![Demo](./codeslogistics-demo.png)
 
 ---
 
-## 🎥 Demo Video
+## 🎥 **Demo Video**
 ![Demo](./codeslogistics-demo.gif)
