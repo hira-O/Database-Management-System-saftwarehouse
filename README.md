@@ -16,13 +16,15 @@ A database-driven management system designed for software houses to track projec
 ---
 
 ## 🌟 **Extra Features**
+- **ChatBOt** – ChatBot is built to answer FAQs.
 - **File Upload/Download** – Store and retrieve project files (ZIP, Docs, etc.) directly from the database  
 - **Search & Filter** – Quickly locate projects, clients, or employees  
 - **Real-Time Dashboard** – Track live updates on project progress and team workload  
-- **Notifications** – Alerts for deadlines, new tasks, and important updates  
-- **Graphical Reports** – Visual charts for project statuses and employee performance  
+- **Announcements** – CEO can make announcements for employees 
+- **Graphical Reports** – Visual charts for project statuses and employee performance
+- **Date & Time** –show real time dae and day on every form
+- **Info Boxes** –there are info boxes for every page.
 
----
 
 ## 📱 **Modules**
 - **Dashboard** – Overview of ongoing projects, pending tasks, and deadlines  
