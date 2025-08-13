@@ -45,10 +45,3 @@ A database-driven management system designed for software houses to track projec
 
 ---
 
-## 📸 **Demo Screenshot**
-![Demo](./codeslogistics-demo.png)
-
----
-
-## 🎥 **Demo Video**
-![Demo](./codeslogistics-demo.gif)
