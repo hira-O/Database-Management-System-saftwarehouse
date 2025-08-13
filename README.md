@@ -1,8 +1,9 @@
 # 📊 **Codes Logistics – Software House Management System**
 
-## 💼 **Efficient Project & Client Management**
+## 💼 **Efficient Employee & Project Management**
 A database-driven management system designed for software houses to track projects, manage clients, and streamline internal workflows with role-based access.
 
+##  **Users:** Employee , CEO.
 ---
 
 ## 🚀 **Core Features**
